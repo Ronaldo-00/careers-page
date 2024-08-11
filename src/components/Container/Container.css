@@ -1,0 +1,131 @@
+/* Section tag css */
+.career-container{
+    width: 80%;
+    height: auto;
+    top: -70px;
+    position: relative;
+    margin: auto;
+}
+/* Filters div css */
+.filters {
+    margin-bottom: 20px;
+}
+.input-div{
+    text-align: center;
+    padding: 40px 0;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px  0px 1px 0px  #1797c5;
+}
+.input-div input{
+    width: 40%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #d0d7d3;
+    margin-right: 20px;
+}
+.btn-2{
+    background-color: #1797c5;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+}
+/* Jobs div css */
+.job{
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.job:hover {
+    background-color: #f0f0f0;
+}
+.job.active{
+    border-color: #1797c5;
+}
+.job.expanded {
+    background-color: #f9f9f9;
+}
+
+.job.expanded .job-details {
+    display: block;
+}
+.job-row{
+    display: flex;
+    border-radius: 5px;
+    flex-direction: row;
+}
+/* Job-row left side list div css */
+.job-list{
+    max-width: 45%;
+    flex-direction: 1;
+}
+/* job-row right selected job css */
+#job-details {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #fff;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+/* h2 tag css */
+.head{
+    padding-bottom: 8px;
+}
+.head.active{
+    color: #1797c5;
+}
+.job p{
+    color: #4f5665;
+}
+.tags{
+    display: flex;
+    padding: 8px 0;
+}
+.tagLists{
+    list-style: none;
+    color: #4f5665;
+    letter-spacing: .01em;
+    background: #e7ebf1;
+    border-radius: 4px;
+    margin-right: 15px;
+    padding: 4px 8px;
+    font-weight: 600;
+    font-size: 13px
+}
+.content-h4{
+    padding: 8px 0 0 0;
+    color: #212529;
+}
+.response-p{
+    color: #4f5665;
+    font-weight: 400;
+    line-height: 22px;
+    font-size: 14px;
+    padding: 10px 0;
+}
+.specification-ul{
+    padding: 10px 0 10px 20px;
+}
+.specification-lists{
+    color: #4f5665;
+    line-height: 22px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/* Accordion styles for screens with max width of 670px */
+@media (max-width: 670px) {
+    .job-list {
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+    }
+}

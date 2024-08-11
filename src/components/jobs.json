@@ -1,0 +1,87 @@
+[
+{ 
+    "name": "Front End Developer",
+    "proList":["Entrylevel","chennai","madurai"],
+    "description":"Collaborate with designers, optimize applications,develop features,and maintain brand consistency for user-friendly interfaces.To build and maintain user-friendly, efficient, and accessible web interfaces that deliver a high-quality user experience.As front-end developers work closely with back-end developers to integrate front-end components with server-side logic. They also collaborate with designers to refine UI elements and with QA testers to identify and fix bugs.Focus on optimizing web applications for speed and performance. This includes writing efficient code, minimizing loading times, and ensuring smooth interactions. They often use frameworks and libraries like React, Angular, or Vue.js to streamline development and manage complex user interfaces more effectively." ,
+    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
+                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
+                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
+                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
+                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
+                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+                    ],
+    "empType":"Full Time",
+    "workPlace":"Hybrid",
+    "salary":"Commensurate with experience and skills",
+    "experience":"Fresher",
+    "location":"Chennai,Madurai,Coimbatore"
+},
+{
+    "name": "PHP Developer",
+    "proList":["EntryLevel", "chennai"],
+    "description": "Writing server-side web application logic.Develop back-end components,connect the app with other web services.and support the front-end developers by integrating their work with the application",
+    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
+                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
+                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
+                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
+                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
+                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+                    ],
+    "empType":"Full Time",
+    "workPlace":"WFH",
+    "salary":"Commensurate with experience and skills",
+    "experience":"Fresher",
+    "location":"Chennai,Bangalore"
+},
+{
+    "name": "Linux Server Admin",
+    "proList":["SeniorLevel","chennai"],
+    "description": "Install, configure, and maintain Linux operating systems and related software. Monitor system performance, troubleshoot issues, and ensure high availability and reliability of Linux-based infrastructure. Collaborate with cross-functional teams to design and implement Linux-based solutions that meet business needs.",
+    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
+                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
+                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
+                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
+                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
+                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+                    ],
+    "empType":"Full Time",
+    "workPlace":"Office",
+    "salary":"Commensurate with experience and skills",
+    "experience":"7+ years",
+    "location":"Chennai"
+},
+{
+    "name": "Full Stack Developer",
+    "proList":["MidLevel","chennai"],
+    "description": "Design and create websites and applications for various platforms.Develop and maintain web services and interfaces. Contribute to front-end and back-end development processes.",
+    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
+                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
+                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
+                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
+                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
+                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+                    ],
+    "empType":"Full Time",
+    "workPlace":"Hybrid",
+    "salary":"Commensurate with experience and skills",
+    "experience":"2+ years",
+    "location":"Chennai,Madurai,Coimbatore,Bangalore"
+},
+{
+    "name": "Business Developement Executive",
+    "proList":["EntryLevel","chennai"],
+    "description": "Identifying and generating new business opportunities, building relationships with potential clients and driving revenue growth.",
+    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
+                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
+                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
+                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
+                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
+                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+                    ],
+    "empType":"Full Time",
+    "workPlace":"Hybrid",
+    "salary":"Commensurate with experience and skills",
+    "experience":"Fresher",
+    "location":"Chennai,Madurai,Coimbatore"
+}
+]

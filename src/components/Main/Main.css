@@ -1,0 +1,165 @@
+.banner{
+    width: 95%;
+    background-color: #1c3669;
+    color: #fff;
+    margin: 20px auto;
+    height: 510px;
+    border-radius: 10px;
+}
+.header{
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 4px;
+    /* position: fixed; */
+}
+.header.fixed {
+    position: fixed;
+    background-color: #1c3669;
+    top: 0;
+    width: 95%;
+    z-index: 1000;
+    margin: auto;
+}
+.logo a{
+    width: 100px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+}
+.logo a img{
+    width: 35px;
+}
+.logo a h3{
+    font-size: 24px;
+}
+/* nav css */
+#mainNav{
+    display: flex;
+    align-items: center;
+}
+.navlinks ul{
+    display: flex;
+    flex-direction: row;
+}
+.navlinks ul li{
+    list-style: none;
+    padding-right: 40px;
+}
+.navlinks ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/* Contact button css */
+.btn-1{
+    background-color: #1797c5;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.container{
+    padding: 100px 0 30px 60px;
+}
+.breadcrumb ul{
+    display: flex;
+}
+.breadcrumb ul li{
+    list-style: none;
+    padding-right: 40px;
+}
+.breadcrumb ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+.breadcrumb ul li a:hover{
+    color: #f7b612;
+}
+.breadcrumb ul li a:after{
+    content: "";
+    position: absolute;
+    background-image: url(../../assets/white-arrow.svg);
+    background-position: center;
+    background-size: cover;
+    width: 7px;
+    height: 7px;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.heading{
+    padding: 40px 0 0 0;
+}
+.heading h1{
+    font-size: 70px;
+}
+.heading h1::first-letter{
+    color: #f7b612;
+}
+
+/* Open toggle button */
+.open-btn {
+    display: none;
+    outline: none;
+    border: none;
+    color: #f7b612;
+    font-size: 25px;
+    background-color: transparent;
+    cursor: pointer;
+    float: right;
+}
+/* Close toggle button */
+.close-btn{
+    display: none;
+    float: right;
+    position: relative;
+    right: 20px;
+    color: #fff;
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    margin-top: 18px;
+    border-radius: 30px !important;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+/* Media query for responsive design */
+@media (max-width:1014px){
+    .open-btn{
+        display: block; 
+    }
+    .close-btn{
+        display: block;
+    }
+    #mainNav{
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 100000;
+        overflow-x: hidden;
+        background-color: #f7b612;
+        padding: 0;
+        display: block;
+        transition: 0.5s;     
+    }
+    .navlinks ul{
+        display: block;
+        padding: 20px 0 0 10px;
+    }
+    .navlinks ul li{
+        padding: 30px 0 0 0;
+    }
+    .btn-div{
+        padding: 20px 0 0 10px;
+    }
+}
