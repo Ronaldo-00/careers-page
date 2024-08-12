@@ -19,13 +19,13 @@
 {
     "name": "PHP Developer",
     "proList":["EntryLevel", "chennai"],
-    "description": "Writing server-side web application logic.Develop back-end components,connect the app with other web services.and support the front-end developers by integrating their work with the application",
-    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
-                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
-                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
-                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
-                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
-                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+    "description": "Writing server-side web application logic.Develop back-end components,connect the app with other web services.and support the front-end developers by integrating their work with the application.write clean, well-structured code using PHP, a widely-used scripting language, to create dynamic web pages and applications.design and implement efficient data storage solutions, often using SQL-based databases like MySQL or PostgreSQL. They ensure data integrity and optimize queries for performance. Additionally, they develop APIs to facilitate communication between different parts of the application or between different applications.focus on security, implementing measures to protect web applications from common vulnerabilities such as SQL injection, cross-site scripting (XSS), and cross-site request forgery (CSRF).",
+    "specification":["Strong expertise in PHP programming, including object-oriented programming (OOP) concepts.",
+                      "Experience in developing server-side logic, including building and maintaining APIs and handling data processing.",
+                      "Proficiency in working with SQL-based databases like MySQL or PostgreSQL, including database design, query optimization, and data integrity.",
+                      "Knowledge of web security practices to protect applications from vulnerabilities such as SQL injection, XSS, and CSRF.",
+                      "Ability to write clean, maintainable code and debug and resolve issues in existing codebases.",
+                      "Proficiency in using version control systems like Git for managing code changes and collaboration."
                     ],
     "empType":"Full Time",
     "workPlace":"WFH",
@@ -36,13 +36,13 @@
 {
     "name": "Linux Server Admin",
     "proList":["SeniorLevel","chennai"],
-    "description": "Install, configure, and maintain Linux operating systems and related software. Monitor system performance, troubleshoot issues, and ensure high availability and reliability of Linux-based infrastructure. Collaborate with cross-functional teams to design and implement Linux-based solutions that meet business needs.",
-    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
-                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
-                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
-                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
-                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
-                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+    "description": "To ensure the stability, security, and efficiency of Linux-based servers within an organization. This involves a wide range of tasks, starting with the installation, configuration, and maintenance of server environments to meet specific operational requirements. Linux server admins are tasked with monitoring server performance using tools like Nagios, Zabbix, or Prometheus to detect and address any issues before they impact users or services.Linux server administrators must implement and manage robust security measures, including firewalls, intrusion detection systems, and regular updates to protect servers from vulnerabilities and threats.managing backups and disaster recovery processes, ensuring that data is regularly backed up and that there are clear procedures for restoring services in the event of a failure. ",
+    "specification":["Expertise in installing, configuring, and maintaining Linux-based servers and related services.",
+                      "Experience with monitoring tools (e.g., Nagios, Zabbix) to track server performance and proactively address issues.",
+                      "Strong knowledge of Linux security best practices, including firewall configuration, intrusion detection, and regular system updates.",
+                      "Proficiency in managing user accounts, permissions, and access controls to ensure secure and appropriate access.",
+                      "Skills in automating administrative tasks using shell scripting or configuration management tools like Ansible, Puppet, or Chef.",
+                      "Ability to maintain detailed documentation of system configurations and procedures, and effectively troubleshoot and resolve server-related issues."
                     ],
     "empType":"Full Time",
     "workPlace":"Office",
@@ -53,7 +53,7 @@
 {
     "name": "Full Stack Developer",
     "proList":["MidLevel","chennai"],
-    "description": "Design and create websites and applications for various platforms.Develop and maintain web services and interfaces. Contribute to front-end and back-end development processes.",
+    "description": "Design, develop, and maintain both the front-end and back-end components of web applications, ensuring they work together seamlessly to deliver a smooth and efficient user experience. On the front-end, full stack developers use HTML, CSS, and JavaScript, along with frameworks like React, Angular, or Vue.js, to create responsive, interactive, and visually appealing user interfaces. They are responsible for ensuring that the application is user-friendly and works consistently across various devices and browsers.use technologies such as Node.js, Python, Ruby, or Java to build robust back-end systems that support the front-end functionality. This includes designing and optimizing databases (SQL or NoSQL), managing data flow, and integrating third-party services.",
     "specification":["Strong proficiency in HTML, CSS, and JavaScript",
                       "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
                       "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
@@ -70,13 +70,13 @@
 {
     "name": "Business Developement Executive",
     "proList":["EntryLevel","chennai"],
-    "description": "Identifying and generating new business opportunities, building relationships with potential clients and driving revenue growth.",
-    "specification":["Strong proficiency in HTML, CSS, and JavaScript",
-                      "Proficiency in front-end frameworks/libraries such as React, Angular, or Vue.js",
-                      "Experience in creating responsive web designs that work seamlessly across various devices and browsers.",
-                      "Ability to translate UI/UX design wireframes into high-quality, interactive web pages.",
-                      "Proficiency in using version control systems, particularly Git, for managing and collaborating on code changes",
-                      "Strong ability to collaborate with designers, back-end developers, and QA testers to integrate front-end components and ensure a cohesive user experience"
+    "description": "Identifying and generating new business opportunities, building relationships with potential clients and driving revenue growth.to drive the growth of a company by identifying new business opportunities and building relationships with potential clients or partners. This involves researching and analyzing market trends, identifying target markets, and understanding the needs and challenges of potential customers. The goal is to develop and implement strategies to expand the companys reach, increase sales, and enhance its market presence.In addition to generating new business, they also work to maintain and grow existing client relationships, ensuring ongoing customer satisfaction and identifying opportunities for upselling or cross-selling.",
+    "specification":["Ability to conduct thorough market research to identify trends, target markets, and potential business opportunities.",
+                      "Proficiency in generating leads through various channels, such as networking, cold calling, and online research.",
+                      "Strong skills in building and maintaining relationships with potential and existing clients to drive business growth.",
+                      "Experience in presenting products or services to prospective clients and negotiating deals that align with company objectives.",
+                      "Ability to develop and implement business development strategies that support the companys goals and market expansion efforts.",
+                      "Excellent communication skills and the ability to work closely with marketing, sales, and other teams to create proposals and presentations."
                     ],
     "empType":"Full Time",
     "workPlace":"Hybrid",
