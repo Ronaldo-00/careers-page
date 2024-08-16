@@ -12,23 +12,33 @@ A React-based application showcasing job listings with filterable and expandable
 
 ## Project Structure
 careers-page/<br>
+├── public/<br>
 ├── src/<br>
 │ ├── assets/<br>
 │ │ └── figma.png<br>
 │ ├── components/<br>
-│ │ ├── Container.js<br>
-│ │ ├── Footer.js<br>
-│ │ ├── Main.js<br>
-│ │ ├── TruncatedText.js<br>
-│ │ └── ScrollToTop/<br>
-│ │ └── ScrollToTop.js<br>
-│ ├── jobs.json<br>
-│ ├── App.js<br>
-│ └── index.js<br>
-├── public/<br>
-│ └── index.html<br>
-├── package.json<br>
-└── README.md<br>
+│ │ ├── Container<br>
+│ │ │ └── Container.css<br>
+│ │ │ └── Container.jsx<br>
+│ │ │└── TruncatedText.jsx<br>
+│ │ ├── Footer<br>
+│ │ │ └── Footer.css<br>
+│ │ │ └── Footer.jsx<br>
+│ │ ├── Main<br>
+│ │ │ └── Main.css<br>
+│ │ │ └── Main.jsx<br>
+│ │ ├── Srolltop<br>
+│ │ │ └── Scroll.css/<br>
+│ │ │ └── ScrollToTop.js<br>
+│ │ ├── jobs.json<br>
+│ ├── App.css<br>
+│ ├── App.jsx<br>
+│ └── main.js<br>
+│ ├──  README.md<br>
+│ ├──  index.html<br>
+│ ├── package-lock.json<br>
+│ ├── package.json<br>
+
 
 
 
