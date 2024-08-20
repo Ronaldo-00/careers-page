@@ -4,11 +4,16 @@ A React-based application showcasing job listings with filterable and expandable
 
 ## Table of Contents
 
+- [Demo](#Demo)
 - [Project Structure](#project-structure)
 - [Components](#components)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Features](#features)
+
+## Demo
+
+This site is live at https://ronaldo-00.github.io/careers-page/
 
 ## Project Structure
 careers-page/<br>
