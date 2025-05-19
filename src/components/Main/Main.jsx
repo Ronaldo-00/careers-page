@@ -12,27 +12,10 @@ const Main = () => {
       setNavLeft('-100%');
     };
 
-  const [isFixed, setIsFixed] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      const scrollTop = window.scrollY;
-      if (scrollTop > 100) {
-        setIsFixed(true);
-      } else {
-        setIsFixed(false);
-      }
-    };
-    window.addEventListener('scroll', handleScroll);
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, []);
-
   return (
     <div>
       <section className="banner">
-        <div className={`header ${isFixed ? 'fixed' : ''}`}>
+        <div className="header">
           <div className="logo">
             <a href='#'>
               <img src={logo}></img>
